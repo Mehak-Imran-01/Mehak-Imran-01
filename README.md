@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey! I'm Mehak, a CS student exploring the world of Machine Learning, Deep Learning, and NLP. What excites me most is using AI to solve real problems and create solutions that actually matter. I love learning, experimenting, and connecting with people who share the same passion for building impactful AI projects. Let's connect!
+Hey! I'm Mehak, a CS student exploring the world of Machine Learning, Deep Learning, NLP, RAG and GenAI. What excites me most is using AI to solve real problems and create solutions that actually matter. I love learning, experimenting, and connecting with people who share the same passion for building impactful AI projects. Let's connect!
 
 
 ## 🌐 Socials:
